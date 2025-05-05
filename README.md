@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  
+##  Olá, eu sou Artur Rodrigues
 
-<!--
-**ArturRodrigues13/ArturRodrigues13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/ArturRodrigues13">
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ArturRodrigues13&show_icons=true&theme=dark&include_all_commits=false&count_private=true" alt="Artur Rodrigues GitHub Stats"/> </a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
+  <a href="https://github.com/ArturRodrigues13">
+  <img height="320em" width=800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRodrigues13&langs_count=6&theme=dark" alt="Most used languages by Artur Rodrigues"/> </a>
+</div>
+
+
+
+
